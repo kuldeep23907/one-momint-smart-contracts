@@ -1,0 +1,23 @@
+{
+  "name": "one-momint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuldeep23907/one-momint-smart-contracts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuldeep23907/one-momint-smart-contracts/issues"
+  },
+  "homepage": "https://github.com/kuldeep23907/one-momint-smart-contracts#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
+    "@truffle/hdwallet-provider": "^1.2.3"
+  }
+}
